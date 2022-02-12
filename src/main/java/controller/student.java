@@ -1,6 +1,6 @@
 package controller;
 
-public class test {
+public class student {
     public String name;
-    public String mark;
+
 }
