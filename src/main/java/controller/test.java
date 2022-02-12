@@ -2,8 +2,8 @@ package controller;
 
 public class test {
     public String name;
-    public String price;
+    public String avg;
+    public String ard;
+     public String ant;
     
-    public String mark;
-     public String age;
 }
