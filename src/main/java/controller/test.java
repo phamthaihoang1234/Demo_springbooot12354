@@ -4,6 +4,6 @@ public class test {
     public String name;
     public String avg;
     public String ard;
-     public String ant;
+     public String hoang;
     
 }
