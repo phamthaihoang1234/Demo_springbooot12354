@@ -4,5 +4,6 @@ public class test {
     public String name;
     public String price;
     
-    public String age;
+    public String mark;
+     public String age;
 }
